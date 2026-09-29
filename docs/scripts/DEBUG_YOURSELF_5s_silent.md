@@ -41,6 +41,9 @@
 
 **Motion prompt (EN):** `NIKA holding a matte black mug by a dusk city window, steam rising, slow push-in, she lowers her gaze to the mug then looks calmly into camera, subtle flicker of the orange line on her collar, minimal motion, cinematic blue hour, 5 seconds`
 
+**Production log**
+- 2026-09-29 · v1 · `flux_3_video`, 9:16, 1080p, 5 s, без аудио · start frame `nika-window-profile.webp` → end frame `nika-window-portrait.webp` · Higgsfield job `e9ce6da6-089d-4463-a845-5bc5cde77b33` · текст не наложен
+
 ---
 
 ## EP02 — Выходной, а ты разбит
