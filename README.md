@@ -15,6 +15,7 @@ Health debugging для русскоязычной аудитории 20–40 л
 |---|---|
 | [`docs/NIKA_BIBLE.md`](docs/NIKA_BIBLE.md) | Основополагающий документ: имя, backstory, внешность, USP, формат, тон, характер, цвет, философия |
 | [`docs/VISUAL_IDENTITY.md`](docs/VISUAL_IDENTITY.md) | Визуальный канон по референсам, палитра, базовый промпт для генерации |
+| [`docs/scripts/`](docs/scripts) | Сценарии роликов |
 | [`references/`](references) | Утверждённые визуальные референсы персонажа |
 
 ## Формат DEBUG YOURSELF
